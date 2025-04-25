@@ -370,12 +370,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  font-size: 1.6rem;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 h1 {
   font-size: 4rem;
 }
