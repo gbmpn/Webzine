@@ -3,7 +3,7 @@ name: "Kenji Nakamura"
 stage_name: "Zenji"
 genre: "Lo-fi Beats"
 image: 
-    src: "/images/artists/zenji.webp"
+    src: "/images/artists/28.webp"
     alt: "Zenji sitting on the floor bathed in neon lights"
 ---
 

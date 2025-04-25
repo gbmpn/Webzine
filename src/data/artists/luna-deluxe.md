@@ -3,7 +3,7 @@ name: "Luna Delgado"
 stage_name: "Luna Deluxe"
 genre: "Disco-Pop"
 image: 
-    src: "/images/artists/luna_deluxe.webp"
+    src: "/images/artists/14.webp"
     alt: "Luna Deluxe holding a vinyl record, styled with bold gold accessories and a shimmering pink outfit, exuding retro glamour with a modern twist."
 ---
 

@@ -3,7 +3,7 @@ name: "Rajiv Bhatia"
 stage_name: "DJ Bolly"
 genre: "Fusion"
 image: 
-    src: "/images/artists/dj_bolly.webp"
+    src: "/images/artists/2.webp"
     alt: "DJ Bolly mixing tracks at a high-energy rooftop party"
 ---
 

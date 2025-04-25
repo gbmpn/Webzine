@@ -3,7 +3,7 @@ name: "Harper Lane"
 stage_name: "HARLXN"
 genre: "Electro-Pop"
 image: 
-    src: "/images/artists/harlxn.webp"
+    src: "/images/artists/9.webp"
     alt: "HARLXN posing confidently with bold lighting, exuding edgy glamor"
 ---
 

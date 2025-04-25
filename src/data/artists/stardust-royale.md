@@ -3,7 +3,7 @@ name: "Andre Kingston"
 stage_name: "Stardust Royale"
 genre: "Glam Rock"
 image: 
-    src: "/images/artists/stardust_royale.webp"
+    src: "/images/artists/21.webp"
     alt: "Stardust Royale striking a powerful pose in a shimmering red suit, radiating retro glam energy"
 ---
 

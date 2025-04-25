@@ -3,7 +3,7 @@ name: "Kwame Adom"
 stage_name: "K-Adom"
 genre: "Afrobeat Fusion"
 image: 
-    src: "/images/artists/k_adom.webp"
+    src: "/images/artists/13.webp"
     alt: "K-Adom posing confidently against a vibrant pink background"
 ---
 
